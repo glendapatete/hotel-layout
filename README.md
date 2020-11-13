@@ -1,2 +1,2 @@
-# hotel-layout
+# landing-hotel
 Created with CodeSandbox
